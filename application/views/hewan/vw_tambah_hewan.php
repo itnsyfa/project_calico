@@ -40,6 +40,7 @@
                                 <option value="Samoyed">Samoyed</option>
                             </select>
                         </div>
+                        <br>
                         <div class="form-group">
                             <label for="jenis_kelamin">Jenis Kelamin</label>
                             <select name="jenis_kelamin" id="jenis_kelamin" class="form-control">
