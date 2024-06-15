@@ -62,6 +62,7 @@
                             <button type="submit" name="tambah" class="btn btn-primary float-right">Tambah Hewan</button>
                         </div>
                     </form>
+                    <br>
                 </div>
             </div>
         </div>
