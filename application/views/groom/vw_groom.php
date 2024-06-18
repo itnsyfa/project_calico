@@ -75,6 +75,8 @@
         </div>
     </div>
 </div>
+
+<br>
 <!-- /.container-fluid -->
 
 <!-- Modal -->

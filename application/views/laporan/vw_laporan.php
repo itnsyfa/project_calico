@@ -51,7 +51,7 @@
                                     <?php endif; ?>
                                 </td>
 
-
+<br>
 
                                 <td style="text-align: center;">
                                     <div class="dropdown no-arrow mb-4 animated--grow-in">
